@@ -154,8 +154,9 @@ h2.catch {
 /*フッター
 -------------------------------------*/
 footer {
-    background-color: #fff;
+    background-color: #000;
     padding: 3rem 0;
+    color:#fff;
 }
 footer h5 {
     border-bottom: 1px solid #ccc;
@@ -166,10 +167,10 @@ footer h5 {
 .copyright {
     text-align: center;
     padding: 1rem 0;
-    background-color: #fff;
+    background-color: #000;
 }
 .copyright a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
 	display: inline-block;
 }
