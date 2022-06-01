@@ -162,19 +162,6 @@ footer h5 {
     border-bottom: 1px solid #ccc;
 }
 
-/*コピーライト
--------------------------------------*/
-.copyright {
-    text-align: center;
-    padding: 1rem 0;
-    background-color: #000;
-}
-.copyright a {
-    color: #fff;
-    text-decoration: none;
-	display: inline-block;
-}
-
 /*ページトップへ戻るボタン
 -------------------------------------*/
 #pagetop {
