@@ -193,3 +193,22 @@ footer h5 {
     display: inline-block;
     color: #959fa5;
 }
+
+/* Works 
+------------------------------------*/
+.works::after {
+    position: absolute;
+  bottom: -4px;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #333;
+  transform: scale(0, 1);
+  transform-origin: left top;
+  transition: transform .3s;
+}
+
+.works:hover{
+    background-color: aqua;
+}
