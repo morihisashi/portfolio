@@ -2,7 +2,7 @@
 @import url("grid.css");
 
 img {
-	max-width:100%;
+	width:300px;
 	height: auto;/*高さ自動*/
 }
 a {
