@@ -3,7 +3,8 @@
 
 img {
 	width:300px;
-	height: auto;/*高さ自動*/
+	height: 250px;
+    object-fit: cover;
 }
 a {
     display:block;
